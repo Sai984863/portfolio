@@ -1,4 +1,3 @@
-![photo](https://github.com/user-attachments/assets/d618c860-114e-4f7f-8ab3-ac8c9519d2e2)
 # Portfolio Website — S Sai Venkata Narayana
 
 This is a simple, responsive portfolio website (HTML + CSS) personalized for **S Sai Venkata Narayana**.
